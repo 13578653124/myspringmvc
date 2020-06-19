@@ -1,0 +1,6 @@
+com\zsq\demo2\MyWebApplicationInitializer2.class
+com\zsq\demo1\config\AppConfig.class
+com\zsq\demo2\AppConfig.class
+com\zsq\demo2\RootConfig.class
+com\zsq\demo1\controller\HelloController.class
+com\zsq\demo1\config\MyWebApplicationInitializer.class
